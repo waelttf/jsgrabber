@@ -12,6 +12,12 @@ jsgrabber is a Go-based CLI tool that automates the end-to-end process of discov
 - 🗂 Structured folder output per target (clean recon data organization)
 
 ---
+## 🔧 Installation
+```bash
+git clone https://github.com/yourusername/jsgrabber.git
+cd jsgrabber
+go build -o jsgrabber jsgrabber.go
+```
 
 ## 📦 Requirements
 
